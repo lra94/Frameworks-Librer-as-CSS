@@ -1,0 +1,55 @@
+.blog-musica {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.container{
+	width: 100%;
+}
+
+header{
+	width: 100%;
+	background-color: black !important;
+}
+
+.logo-img {
+  width: 100px;
+  height: 75px;
+}
+
+.img-social {
+  width: 30px;
+  height: 30px;
+  margin-top: 10px;
+}
+
+nav{
+	background-color: black;
+}
+
+.img-article{
+	border: 1px solid black;
+	width: 230px;
+	height: 200px;
+	margin-top: 20px;
+}
+.articles{
+	margin-top: 20px;
+}
+
+
+@media only screen and (max-width: 600px){
+	.redes{
+		text-align: center;
+	}
+}
+
+
+
+
+
+
+
